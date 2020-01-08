@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SSN App</string>
+
+    <string-array name="Department">
+        <item>---Select---</item>
+        <item>Computer Science and Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Information Technology</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Bio Medical Engineering</item>
+        <item>Civil Engineering</item>
+    </string-array>
 </resources>
